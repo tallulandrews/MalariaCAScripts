@@ -1,0 +1,18 @@
+/lustre/scratch118/infgen/team133/ar11/single_cell/atlas/splicing/antisense/*.dat
+1 = asexual
+2 = ring
+3 = ookinete
+
+
+Database gff source:
+http://www.genedb.org/Homepage/Pberghei
+ftp://ftp.sanger.ac.uk/pub/project/pathogens/gff3/CURRENT
+
+Waves Info:
+GenomeWideRealTimeTranscriptionalDynamicsDuringPfalSuppl1.xlsx
+GenomeWideRealTimeTranscriptionalDynamicsDuringPfalSuppl2.xlsx
+GenomeWideRealTimeTranscriptionalDynamicsDuringPfalSuppl3.xlsx
+Pf_transcription_vs_time_FromSuppl1.csv
+Pf_stabilization_vs_time_FromSuppl1.csv
+
+https://www.nature.com/articles/s41467-018-04966-3#MOESM6
